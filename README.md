@@ -9,6 +9,10 @@ What is this?
 This is just an experiment with the 1.8" screen sold by adafruit.
 http://www.adafruit.com/products/358
 
+How it looks like
+-----------------
+![this is how it looks](https://raw.githubusercontent.com/caosdoar/arduino-raytracer/master/setup.jpg)
+
 Why?
 ----
 
